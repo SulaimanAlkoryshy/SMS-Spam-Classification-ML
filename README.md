@@ -15,4 +15,8 @@ The model was evaluated on a test set and achieved the following metrics:
 * **F1-Score:** Strong balance between precision and recall for both classes.
 
 ## Dataset
-The project uses the **SMS Spam Collection Dataset**, containing over 5,000 labeled messages.
+The Dataset uses is the **SMS Spam Collection Dataset**, containing over 5,000 labeled messages.
+
+* **Language:** Python
+* **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
+* **Environment:** Google Colab / Jupyter Notebook
